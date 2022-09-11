@@ -6,11 +6,11 @@
 
 ## `CSS:` Le CSS ou Cascading Style Sheets (feuilles de style en cascade) offre la possibilité de styliser des langages de balises comme le HTML. Appliquer des couleurs, définir des marges, positionner des éléments et bien d’autres choses… Là où le HTML représente le fond, le CSS lui, représente la forme
 
-# `Javascript`
+# `Javascript:` Le Javascript est un langage de programmation orienté objet qui permet de créer du contenu mis à jour de façon dynamique, de contrôler le contenu multimédia, de créer de animations... Tout ceci grâce à des scripts exécutés par le navigateur lui même.
 
-## `LocalStorage`
+## `LocalStorage` Le localStorage est une technique d'enregistrement de données dans le navigateur web. Il permet l'enregistrement persistant comme avec les cookies mais avec une capacité bien plus grande.
 
-## `SessionStorage`
+## `SessionStorage` Le sessionsStorage est une technique d'enregistrement de données dans le navigateur web. A la différence du localStorage, les données enregistrées dans le sessionStorage, ont une durée de vie limitée et expirent à la fin de la session de naviagation actuelle.
 
 ## `Const` La déclaration const permet de créer une constante nommée accessible uniquement en lecture. Une constante ne peut pas être déclarée à nouveau.
 
