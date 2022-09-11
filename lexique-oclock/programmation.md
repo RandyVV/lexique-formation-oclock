@@ -1,10 +1,10 @@
-`PHP`
+`PHP` Le PHP, pour Hypertext Preprocessor, désigne un langage informatique, ou un langage de script, utilisé principalement pour la conception de sites web dynamiques. Il s'agit d'un langage de programmation sous licence libre qui peut donc être utilisé par n'importe qui de façon totalement gratuite.
 
-`<?php ?>`
+`<?php ?>` Lorsque PHP traite un fichier, il cherche les balises d'ouverture et de fermeture (<?php et ?>) qui délimitent le code qu'il doit interpréter. De cette manière, cela permet à PHP d'être intégré dans toutes sortes de documents, car tout ce qui se trouve en dehors des balises ouvrantes / fermantes de PHP est ignoré.
 
-`echo`
+`echo` Permet d'afficher une chaîne de caractère contenue dans le fichier PHP directement dans le navigateur.
 
-`var_dump`
+`var_dump` Permet d'afficher les informations d'une variable contenue dans le fichier PHP directement dans le navigateur.
 
 ### `String:` chaîne de caractères, type de valeur qui représente du texte.
 
@@ -20,17 +20,17 @@
 
 ## `boucles:`Les boucles vont nous permettre d’exécuter plusieurs fois un bloc de code, c’est-à-dire d’exécuter un code « en boucle » tant qu’une condition donnée est vérifiée.
 
-`Concaténation`
+`Concaténation` La concaténation est le fait de mettre bout à bout des chaînes de caractères; des variables... elle se fait grâce à un operateur de concaténation ("." en php, "+" en Js)
 
-`Echappement`
+`Echappement` 
 
-`Incrémentation:`
+`Incrémentation:` Incrémenter une valeur signifie ajouter 1 (ou une autre valeur numérique) à cette valeur.
 
-`Décrémentation`
+`Décrémentation` Décrémenter une valeur signifie à l'inverse de l'incrémentation, enlever 1 (ou une autre valeur numérique) à cette valeur.
 
 `Opérateurs combinés`
 
-## `Les conditions`
+## `Les conditions` 
 
 `OR / &&`
 
