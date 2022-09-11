@@ -1,16 +1,28 @@
-# `Base de données:` Une base de données sert à stocker, organiser et gérer des données. 
+# `Base de données:` 
 
-## `SGBDR` (Sytème de Gestion de Bases de Données Relationnelles): Rassembler, classer, trier, relier de grosses quantités de données est fastidieux. Les SGBD sont là pour ça !
+Une base de données sert à stocker, organiser et gérer des données. 
+
+## `SGBDR` 
+
+(Sytème de Gestion de Bases de Données Relationnelles): Rassembler, classer, trier, relier de grosses quantités de données est fastidieux. Les SGBD sont là pour ça !
 
 ## 2 grandes familles de SGBD:
 
-### `RDBMS:`Relationnal Database Management System / Système de Gestion de Bases de données relationnelles
+### `RDBMS:`
 
-#### exemple: `MySQL` `Maria DB` `PostgreSQL` `SQLite` etc…
+Relationnal Database Management System / Système de Gestion de Bases de données relationnelles
 
-### `NoSQL:`Structures de données sans SQL, Key/Value, Document store, etc…
+#### exemple: 
 
-#### exemple: `MongoDB` `Redis` `Cassandra` `CouchDB` etc…
+`MySQL` `Maria DB` `PostgreSQL` `SQLite` etc…
+
+### `NoSQL:`
+
+Structures de données sans SQL, Key/Value, Document store, etc…
+
+#### exemple: 
+
+`MongoDB` `Redis` `Cassandra` `CouchDB` etc…
 
 `SQL`
 
@@ -25,11 +37,17 @@
 
 `Champ`
 
-`Relation:` One to One(1,1), One to Many(1, N) Many to One (N, 1) Many to Many (N, N)
+`Relation:` 
 
-`MLD (Model Logique des Données):` ID + clés étrangères
+One to One(1,1), One to Many(1, N) Many to One (N, 1) Many to Many (N, N)
 
-`MPD (Model Physique des Données):` MLD + type des champs
+`MLD (Model Logique des Données):` 
+
+ID + clés étrangères
+
+`MPD (Model Physique des Données):` 
+
+MLD + type des champs
 
 `Clés primaires/étrangères`
 
